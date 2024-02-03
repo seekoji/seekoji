@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://imgur.com/a/FBLn9lX"/>
+<img src="banner.png"/>
 </div>
