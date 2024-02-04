@@ -1,6 +1,9 @@
+<div>
 <div align="center">
 <img src="banner.png"/>
 <hr>
+</div>
+
 # Skills:
 
 - Main: <br>
