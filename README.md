@@ -1,7 +1,7 @@
 <div>
 <div align="center">
 <img src="banner.png"/>
-<hr>
+<img src="divider.png"/>
 <img src="skills.png"/>
 
 ## Main: <br>
