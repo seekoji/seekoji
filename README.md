@@ -2,7 +2,7 @@
 <div align="center">
 <img src="banner.png"/>
 <img src="divider.png"/>
-<br />
+&nbsp;
 <img src="skills.png"/>
 
 ## Main: <br>
