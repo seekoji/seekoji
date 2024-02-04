@@ -2,7 +2,7 @@
 <div align="center">
 <img src="banner.png"/>
 <!-- <hr> -->
-<img src="skills_banner.png"/>
+<img src="skills.png"/>
 
 ## Main: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,nextjs,react,tailwind,tauri)](https://skillicons.dev)
