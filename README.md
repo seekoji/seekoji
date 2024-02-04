@@ -1,8 +1,6 @@
 <div>
 <div align="center">
 <img src="banner.png"/>
-<img src="divider.png"/>
-&nbsp;
 <img src="skills.png"/>
 
 ## Main: <br>
