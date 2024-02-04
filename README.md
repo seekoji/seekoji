@@ -1,9 +1,8 @@
 <div>
 <div align="center">
 <img src="banner.png"/>
+<img src="skills.png"/>
 </div>
-
-# Skills:
 
 ## Main: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,ts,react,tailwind,tauri)](https://skillicons.dev)
